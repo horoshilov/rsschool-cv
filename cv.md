@@ -37,3 +37,14 @@ let cubeChecker = function(volume, side){
 
 - Freelance
 
+##Education
+
+1. [Digital transformation](https://stepik.org/cert/1704176)
+2. [Web development fog beginners](https://stepik.org/cert/1143487)
+3. [HTML](https://www.sololearn.com/certificates/CT-WLOG5IRI)
+4. [SQL](https://www.sololearn.com/certificates/CT-TNVIOJNG)
+5. [JS](https://www.sololearn.com/certificates/CT-HBMGREI7)
+6. [PHP](https://www.sololearn.com/certificates/CT-HI9FXTUV)
+7. [CSS](https://www.sololearn.com/certificates/CT-0BUAVLDX)
+8. [React](https://www.sololearn.com/certificates/CT-GODTCOEL)
+9. [Responsive Web Design](https://www.sololearn.com/certificates/CT-EGGVARKB)
