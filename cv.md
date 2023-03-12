@@ -48,3 +48,8 @@ let cubeChecker = function(volume, side){
 7. [CSS](https://www.sololearn.com/certificates/CT-0BUAVLDX)
 8. [React](https://www.sololearn.com/certificates/CT-GODTCOEL)
 9. [Responsive Web Design](https://www.sololearn.com/certificates/CT-EGGVARKB)
+
+## Lenguages
+
+- Russian native
+- English B1+
