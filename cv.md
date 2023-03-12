@@ -37,7 +37,7 @@ let cubeChecker = function(volume, side){
 
 - Freelance
 
-##Education
+## Education
 
 1. [Digital transformation](https://stepik.org/cert/1704176)
 2. [Web development fog beginners](https://stepik.org/cert/1143487)
